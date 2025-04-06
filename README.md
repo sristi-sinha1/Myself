@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sristi Sinha</h1>
 <h3 align="center">A professional frontend web developer from India</h3>
 
+<img src="https://cdn.dribbble.com/userupload/41784761/file/original-a61a9e3e4588d69413bf0c7e35853cfc.gif" align="right" width="400" alt="Coding">
+
 - 🌱 I’m currently learning **MERN stack**
 
 - 💬 Ask me about **React, Javascript**
 
 - 📫 How to reach me **sristisinha22@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact: **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
